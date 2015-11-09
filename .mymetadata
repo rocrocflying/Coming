@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="coming"
+  id="myeclipse.1429505204061"
+  context-root="/coming"
+  j2ee-spec="5.0"
+  archive="coming.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
