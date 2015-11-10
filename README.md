@@ -21,7 +21,7 @@
 ###淘吧界面
 ![image](https://github.com/rocrocflying/Coming-School-social-shopping-site-/raw/master/screenshot/4.png)
 ![image](https://github.com/rocrocflying/Coming-School-social-shopping-site-/raw/master/screenshot/5.png)
-###吃吧界面
+###吃吧界面<br>
 ![image](https://github.com/rocrocflying/Coming-School-social-shopping-site-/raw/master/screenshot/6.png)
 ![image](https://github.com/rocrocflying/Coming-School-social-shopping-site-/raw/master/screenshot/7.png)
 
