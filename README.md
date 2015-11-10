@@ -15,13 +15,13 @@
 ![image](https://github.com/rocrocflying/Coming-School-social-shopping-site-/raw/master/screenshot/1.png)
 
 ###主要程序界面
-1、约吧界面
+###约吧界面
 ![image](https://github.com/rocrocflying/Coming-School-social-shopping-site-/raw/master/screenshot/2.png)
 ![image](https://github.com/rocrocflying/Coming-School-social-shopping-site-/raw/master/screenshot/3.png)
-2、淘吧界面
+###淘吧界面
 ![image](https://github.com/rocrocflying/Coming-School-social-shopping-site-/raw/master/screenshot/4.png)
 ![image](https://github.com/rocrocflying/Coming-School-social-shopping-site-/raw/master/screenshot/5.png)
-3、吃吧界面
+###吃吧界面
 ![image](https://github.com/rocrocflying/Coming-School-social-shopping-site-/raw/master/screenshot/6.png)
 ![image](https://github.com/rocrocflying/Coming-School-social-shopping-site-/raw/master/screenshot/7.png)
 
