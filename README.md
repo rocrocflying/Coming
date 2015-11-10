@@ -9,5 +9,8 @@
 主要程序界面
 
 ![image](https://github.com/rocrocflying/Coming-School-social-shopping-site-/raw/master/screenshot/1.png)
+![image](https://github.com/rocrocflying/Coming-School-social-shopping-site-/raw/master/screenshot/2.png)
+![image](https://github.com/rocrocflying/Coming-School-social-shopping-site-/raw/master/screenshot/3.png)
+![image](https://github.com/rocrocflying/Coming-School-social-shopping-site-/raw/master/screenshot/4.png)
 
 
